@@ -1,0 +1,9 @@
+com\wildbeans\movies\Movie.class
+com\wildbeans\movies\ReviewController.class
+com\wildbeans\movies\MovieService.class
+com\wildbeans\movies\Review.class
+com\wildbeans\movies\MovieRepository.class
+com\wildbeans\movies\ReviewService.class
+com\wildbeans\movies\MovieController.class
+com\wildbeans\movies\MoviesApplication.class
+com\wildbeans\movies\ReviewRepository.class
